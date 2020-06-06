@@ -8,6 +8,3 @@ While using the following elements:
   - Building a Server, Cache Manager and a Client Handler as interfaces,opened to a variety of uses by demand.
   - Building a single Adapter for the project, in order to solve different unexpected problems.
 
-**This project was made for my Advanced Software Development Course, Which was taught by Dr. Eliahu Khalastchi,<br/> 
-at The College of Management Academic Studies .<br/>**
-
