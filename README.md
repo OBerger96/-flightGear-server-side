@@ -1,4 +1,4 @@
-# Advanced Software Development - end of semester project - milestones 1-3
+# Advanced Software Development Project - milestones 1-3
 
 Building a server-side project from top to bottom, which gets search problems from the client and returns the "best-shortest" solution according to the search algorithm (using BestFirstSearch).<br />
 While using the following elements:
